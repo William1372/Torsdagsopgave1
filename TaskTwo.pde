@@ -1,0 +1,10 @@
+String teacherName = "Tess Løvgreen";
+int daysInAYear = 365;
+String city = "København";
+boolean isHappy = true;
+int sixtyDaysInHours = 60*24;
+float decemberTwentysecond = 22.12 // jeg kunne ikke finde på et godt navn til den her
+String helloMessage = "Hej, jeg hedder "+teachername;
+boolean isAngry = false;
+float mathQuestion = 2.2+33;
+char letterS = 'S';
